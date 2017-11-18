@@ -19,6 +19,7 @@ public class CallingMethodsInSameClass
 		
 		System.out.println("Hello World rep1-3s");
 		System.out.println("Hello World rep2-3");
+		System.out.println("Hello World rep1-4");
 
 	}
 

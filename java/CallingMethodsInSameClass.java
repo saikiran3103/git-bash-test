@@ -14,6 +14,8 @@ public class CallingMethodsInSameClass
 
 	public static void printOne() {
 		System.out.println("Hello World");
+		System.out.println("Hello World2");
+		
 	}
 
 	public static void printTwo() {

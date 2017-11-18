@@ -15,7 +15,7 @@ public class CallingMethodsInSameClass
 	public static void printOne() {
 		System.out.println("Hello World");
 		System.out.println("Hello World rep1");
-		System.out.println("Hello World rep2-2");
+		System.out.println("Hello World rep1-2s");
 
 	}
 
